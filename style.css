@@ -553,6 +553,7 @@ footer p{
     padding: 40px 0;
 }
 
-.p1 {
-	color: black;
+form a{
+    color: #143328;
+    font-weight: bold;
 }
